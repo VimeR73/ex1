@@ -56,8 +56,7 @@ a:focus:after {
 }
 .centered {
   text-align: center;
-padding 50px;
-  transform: translate(-50%, -50%);
+  padding-top: 50px;
   font-size: 75px;
   font-weight: 600;
   color: #ffffff;    
