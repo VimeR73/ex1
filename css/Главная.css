@@ -9,14 +9,14 @@
 p {
   line-height: 2.2em;
 }
-a {
+.na a {
 	position: relative;
 	color: #ffffff; 
 	cursor: pointer;
 	line-height: 1;
 	text-decoration: none;
 }
-a:after {
+.na a:after {
   margin-top: 57px;
 	position: absolute;
 	left: 0;
